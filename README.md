@@ -1,6 +1,6 @@
 # Dufham
 Start Update.exe
-Start.exe go play!
+and Start.exe go play!
 
 Last Update : 16.10.2020
 
